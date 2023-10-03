@@ -1,7 +1,8 @@
 import { Header } from './components/Header.tsx'
 
-import {Post, PostType} from './components/Post.tsx'
+import {Post} from './components/Post.tsx'
 import { Sidebar } from './components/Sidebar.tsx'
+import {PostType} from './components/Post.tsx'
 
 import styles from './App.module.css'
 import './global.css'
